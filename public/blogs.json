@@ -1,39 +1,43 @@
 [
     {
-      "id": "12345",
+      "id": 1,
+      "author": "Nenson Tesla",
       "cover": "https://i.ibb.co/4mqh2yd/1.jpg",
       "title": "The Secret Garden",
       "author_img": "https://i.ibb.co/y4PtRTj/boy1.png",
       "posted_date": "2023-09-13",
       "reading_time": 120,
-      "hashtags": ["fiction", "gardens", "adventure"]
+      "hashtags": ["fiction", "gardens"]
     },
     {
-      "id": "54321",
+      "id": 2,
+      "author": "Jack William",
       "cover": "https://i.ibb.co/9ThxVhV/2.png",
       "title": "Lost in Wonderland",
       "author_img": "https://i.ibb.co/vQ0kB89/boy2.jpg",
       "posted_date": "2023-09-12",
       "reading_time": 90,
-      "hashtags": ["fantasy", "wonderland", "journey"]
+      "hashtags": ["fantasy", "wonderland"]
     },
     {
-      "id": "98765",
+      "id": 3,
+      "author": "paul Nalin",
       "cover": "https://i.ibb.co/DRvBNBc/3.png",
       "title": "Mystery Mansion",
       "author_img": "https://i.ibb.co/XzFhP1s/girl1.jpg",
       "posted_date": "2023-09-11",
       "reading_time": 150,
-      "hashtags": ["mystery", "haunted", "detective"]
+      "hashtags": ["mystery", "haunted"]
     },
     {
-      "id": "24680",
+      "id": 4,
+      "author": "Will Jack",
       "cover": "https://i.ibb.co/5FXvvqk/4.jpg",
       "title": "Space Odyssey",
       "author_img": "https://i.ibb.co/d2C9Lp8/girl2.jpg",
       "posted_date": "2023-09-10",
       "reading_time": 180,
-      "hashtags": ["sciencefiction", "space", "exploration"]
+      "hashtags": ["sciencefiction", "space"]
     }
   ]
   
