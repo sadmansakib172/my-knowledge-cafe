@@ -3,7 +3,7 @@
       "id": "12345",
       "cover": "https://i.ibb.co/4mqh2yd/1.jpg",
       "title": "The Secret Garden",
-      "author_img": "https://i.ibb.co/f9RgpGz/profile.png",
+      "author_img": "https://i.ibb.co/y4PtRTj/boy1.png",
       "posted_date": "2023-09-13",
       "reading_time": 120,
       "hashtags": ["fiction", "gardens", "adventure"]
@@ -12,7 +12,7 @@
       "id": "54321",
       "cover": "https://i.ibb.co/9ThxVhV/2.png",
       "title": "Lost in Wonderland",
-      "author_img": "https://i.ibb.co/y4PtRTj/boy1.png",
+      "author_img": "https://i.ibb.co/vQ0kB89/boy2.jpg",
       "posted_date": "2023-09-12",
       "reading_time": 90,
       "hashtags": ["fantasy", "wonderland", "journey"]
@@ -21,7 +21,7 @@
       "id": "98765",
       "cover": "https://i.ibb.co/DRvBNBc/3.png",
       "title": "Mystery Mansion",
-      "author_img": "https://i.ibb.co/vQ0kB89/boy2.jpg",
+      "author_img": "https://i.ibb.co/XzFhP1s/girl1.jpg",
       "posted_date": "2023-09-11",
       "reading_time": 150,
       "hashtags": ["mystery", "haunted", "detective"]
@@ -30,19 +30,10 @@
       "id": "24680",
       "cover": "https://i.ibb.co/5FXvvqk/4.jpg",
       "title": "Space Odyssey",
-      "author_img": "https://i.ibb.co/XzFhP1s/girl1.jpg",
+      "author_img": "https://i.ibb.co/d2C9Lp8/girl2.jpg",
       "posted_date": "2023-09-10",
       "reading_time": 180,
       "hashtags": ["sciencefiction", "space", "exploration"]
-    },
-    {
-      "id": "13579",
-      "cover": "https://example.com/book5.jpg",
-      "title": "Underwater Adventure",
-      "author_img": "https://i.ibb.co/d2C9Lp8/girl2.jpg",
-      "posted_date": "2023-09-09",
-      "reading_time": 108,
-      "hashtags": ["adventure", "underwater", "ocean"]
     }
   ]
   
